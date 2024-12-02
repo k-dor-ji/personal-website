@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.092468eb.css",
+    "main.js": "/static/js/main.b7ec081d.js",
+    "static/js/453.7386e764.chunk.js": "/static/js/453.7386e764.chunk.js",
+    "static/media/banner-bg.png": "/static/media/banner-bg.f86db9a8a1189a32a7dc.png",
+    "static/media/CTAQMT-K.Y.D.pdf": "/static/media/CTAQMT-K.Y.D.51ce31a2da5a3536c33a.pdf",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/database-card.png": "/static/media/database-card.d5ff14fc51f30308a6d1.png",
+    "static/media/background.jpg": "/static/media/background.3d28129a34ac6202bc6a.jpg",
+    "static/media/resume.pdf": "/static/media/resume.61f70adea415a07db08c.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/database-card2.png": "/static/media/database-card2.70ba7b58e776004ffcbe.png",
+    "static/media/weather-card.png": "/static/media/weather-card.7a2a5c1008307fcd6759.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.856c4a5cd6fb920be7062ec45eb57564.svg",
+    "static/media/logo.svg": "/static/media/logo.6255a8f6ecc8d0031148280c6ffeb85d.svg",
+    "static/media/header-img.svg": "/static/media/header-img.596a23ec36cfd3a090dcec756a89d864.svg",
+    "static/media/navIcon.svg": "/static/media/navIcon.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.092468eb.css.map": "/static/css/main.092468eb.css.map",
+    "main.b7ec081d.js.map": "/static/js/main.b7ec081d.js.map",
+    "453.7386e764.chunk.js.map": "/static/js/453.7386e764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092468eb.css",
+    "static/js/main.b7ec081d.js"
+  ]
+}
